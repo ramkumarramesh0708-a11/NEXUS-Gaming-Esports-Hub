@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Gaming & Esports Hub",
+  "description": "Premier gaming store for cutting-edge hardware, consoles, games, pre-order dispatch tracking, and live esports tournament registrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
